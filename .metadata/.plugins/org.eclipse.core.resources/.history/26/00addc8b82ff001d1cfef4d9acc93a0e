@@ -1,0 +1,11 @@
+package com.awslambda.aws;
+
+public class hello {
+//	public String hellolambda() {
+//		return "hello lambda";
+//	}
+	public static void main(String[] args) {
+		System.out.println("hello lambda");
+	}
+
+}

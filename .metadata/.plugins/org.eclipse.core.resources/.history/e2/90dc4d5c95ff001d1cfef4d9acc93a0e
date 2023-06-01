@@ -1,0 +1,6 @@
+spring.dataSource.Driver-class-name=com.h2.cj.jdbc.Driver
+spring.datasource.url=jdbc:h2://localhost:3306/sakila
+spring.datasource.username=root
+spring.datasource.password=pass@word1
+spring.jpa.hibernate.ddl-auto=update
+spring.jpa.show-h2=true
